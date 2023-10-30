@@ -3263,7 +3263,7 @@ ol li {
 }
 
 #top_content{
-	font-size: 0.em;
+	font-size: 0.8em;
 
 }
 
@@ -3324,8 +3324,9 @@ ol li {
 	text-align: center;
 }
 .talk_title{
-	font-size:2em;
+	font-size:1.8em;
 	text-align: center;
+	line-height: 1em;
 }
 
 .content{
